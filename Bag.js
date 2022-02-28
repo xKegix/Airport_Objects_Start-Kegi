@@ -6,4 +6,3 @@ class Bag {
 }
 
 //Export the module
-module.exports = Bag
