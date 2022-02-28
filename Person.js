@@ -1,10 +1,10 @@
 class Person {
-    constructor(name, bags) {
-        this.name = name
-        this.bags = []
-    }
+    // Include a Constructor Method for Properties: 
+        // 1. Name
+        // 2. Bags
+            // 2a. Bags should contain/reference a data type for storing more than one bag object.
 
-    //include an addBag method
+    // Include an addBag method
 }
 
-module.exports = Person
+//Export the Module
