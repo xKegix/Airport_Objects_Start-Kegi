@@ -13,6 +13,7 @@ Complete the following steps to complete your `Bag` class:
 - Assign the `weight` argument to become the weight of the instance of the class
 - Export the module
 - Run the command npm run test Bag.test.js you should receive the following output: 
+
 ![Part 1 Tests](https://user-images.githubusercontent.com/44912347/202293535-73bacaba-fca1-4cb5-9013-e68ac6b8e8a4.png)
 
 ## Part 2: The `Person` Class
@@ -24,6 +25,7 @@ Complete the following steps to complete your `Person` class:
 - Fill out the `addBag` method. Make sure you use the appropriate keywords and methods to add bag objects to the property `bags`
 - Export the module
 - Run the command `npm run test Person.test.js`. If you have successfully completed this class, you should have a result as follows:
+
 ![Part 2 Tests](https://user-images.githubusercontent.com/44912347/202294091-02d94879-e058-4e68-850a-871efc4eb781.png)
 
 ## Part 3: The `Airport` Class
@@ -37,9 +39,11 @@ Complete the following steps to complete your `Airport` class:
 - Fill out the `Airport` constructor method. Use the appropriate data type or structure to contain a list of planes. 
 - Fill out the `addPlane` method. Make sure you use the appropriate keywords and methods to add plane objects to planes property.
 - Run the command `npm run test Airport.test.js`. If you have successfully completed this class, you should have a result as follows:
+
 ![Part 3 Tests)](https://user-images.githubusercontent.com/44912347/202294637-03bc54af-82ee-4c2a-bd4e-7aea7b0f156f.png)
 
 ## Part 4: Validation
 **GOAL:** Verify that you have passed all the required tests for this activity.
 - Run the command npm run test. If you have successfully completed this class, you should have a result as follows:
+
 ![Part 4 Tests](https://user-images.githubusercontent.com/44912347/202294809-71f797d1-784d-4ead-bc00-091b8a4fa43f.png)
